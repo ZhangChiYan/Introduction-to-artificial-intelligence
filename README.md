@@ -1,7 +1,7 @@
 # Probabilistic Reasoning and Making Decisions
 ![Python](https://img.shields.io/badge/Python-blue.svg?)
 #### particle filter 推理報告
-#### 參考資料 https://github.com/leimao/Particle_Filter
+#### 參考程式資料 https://github.com/leimao/Particle_Filter
 
 
 - 報告重點
